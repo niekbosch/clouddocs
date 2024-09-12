@@ -3,7 +3,7 @@ layout: default
 ---
 
 The 'HPC Cloud' service hosted/operated by SURF was phased out on the 31th Mar. 2022.
-It was supersed by [SURF Research Cloud](https://researchcloud.surf.nl/).
+It was superseded by [SURF Research Cloud](https://researchcloud.surf.nl/).
 
 # HPC Cloud documentation
 
